@@ -2,13 +2,13 @@
 
 The log of my first #100DaysOfCode challenge.
 
-Start Date: 14th February 2025
+**Start Date**: 14th February 2025
 
-Target End Date: 4th July 2025
+**Target End Date**: 4th July 2025
 
-Actual End Date: 
+**Actual End Date**: 
 
-Coding Days:
+**Coding Days**:
 - [x] Monday
 - [ ] Tuesday
 - [x] Wednesday
