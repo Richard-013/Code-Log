@@ -1,6 +1,12 @@
-# #100DaysOfCode Log - Round # - [Richard Horton]
+# #100DaysOfCode Log - Round # - Richard Horton
 
-The log of my #100DaysOfCode challenge. Started on [Weekday, Date, Month, Year].
+The log of my #100DaysOfCode challenge.
+
+Start Date: 
+
+Target End Date: 
+
+Actual End Date: 
 
 Coding Days:
 - [x] Monday
@@ -13,7 +19,7 @@ Coding Days:
 
 ## Log
 
-### Day 1 (DD/MM)
+### Day 1 - Weekday - (DD/MM)
 
 Info about day's work
 
