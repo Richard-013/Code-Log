@@ -2,13 +2,13 @@
 
 The log of my #100DaysOfCode challenge.
 
-Start Date: 
+**Start Date**: 
 
-Target End Date: 
+**Target End Date**: 
 
-Actual End Date: 
+**Actual End Date**: 
 
-Coding Days:
+**Coding Days**:
 - [x] Monday
 - [ ] Tuesday
 - [x] Wednesday
