@@ -21,6 +21,8 @@ The log of my first #100DaysOfCode challenge.
 
 ### Day 1 - Friday - 14/02
 
-...
+Started work on Crazy Eights card game Unity project. Made a rough plan of the requirements for the basic game functionality (ignored UI/Animation etc. for now).
+Implemented the Card class to hold individual card data and a Deck class that generates the instances for the cards. Added an altered Fisher-Yates shuffle as a shuffle function for the deck.
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 
 ### Day 2 (DD/MM)
