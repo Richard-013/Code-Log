@@ -27,4 +27,8 @@ Implemented the Card class to hold individual card data and a Deck class that ge
 
 Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 
-### Day 2 (DD/MM)
+### Day 2 - Saturday - 15/02
+
+Started work on game management class and player class. Reworked some of the initial code to better suit the use of a game manager entity.
+
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
