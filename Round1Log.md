@@ -32,3 +32,10 @@ Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 Started work on game management class and player class. Reworked some of the initial code to better suit the use of a game manager entity.
 
 Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
+
+### Day 3 - Sunday - 16/02
+
+Overhauled system to use GameObjects to store all data. Created functions for distributing hands of cards. Automatically create cards in scene and position them in each players hand.
+Generated a material for each card from textures and assign them to the correct cards when the deck is generated. 
+
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
