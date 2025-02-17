@@ -36,6 +36,16 @@ Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 ### Day 3 - Sunday - 16/02
 
 Overhauled system to use GameObjects to store all data. Created functions for distributing hands of cards. Automatically create cards in scene and position them in each players hand.
+
 Generated a material for each card from textures and assign them to the correct cards when the deck is generated. 
 
 Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
+
+### Day 4 - Monday - 17/02
+
+Reworked card positioning system so initial hand can be any size and overlap cards when needed. Set deck beside the last played card. Fixed textures for cards by making them opaque but still use Alpha Clipping to tidy corners.
+
+Started functionality of drawing a card from the deck to a player hand, still needs movement.
+
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
+
