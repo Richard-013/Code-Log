@@ -53,3 +53,11 @@ Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 
 Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 
+### Day 5 - Wednesday - 19/02
+
+- Overhaul of how cards move to use coroutines and self-calculated smooth movement and rotation
+- Updates to functions that move cards to use the new coroutine-based smooth movement system
+- Added ability to hide face of card from player with in-script material changing
+- Spent a long time debugging and experimenting with coroutines before realising test code was the issue and not material change code
+
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
