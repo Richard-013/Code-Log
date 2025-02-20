@@ -61,3 +61,13 @@ Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 - Spent a long time debugging and experimenting with coroutines before realising test code was the issue and not material change code
 
 Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
+
+### Day 6 - Thursday - 20/02 (BONUS DAY)
+
+- Cleaned up functions for moving cards in the player's hand
+- Added another overload for smooth movement coroutine to allow movement without rotation
+- Added ability to draw a card from the deck to a player's hand
+- All cards move over to accomodate the new card when it's drawn to the hand
+- Added test code with key press inputs to test card draw functionality
+
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
