@@ -81,3 +81,11 @@ Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 - Updated the order of card suits for easier to read hands (Suits now alternate between black and red cards)
 
 Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
+
+### Day 8 - Saturday - 22/02
+
+- Added direction of play and current player index get/set functions
+- Implemented PlayCard function basics, card movement needs refining
+- Implemented Card Actions for non-regular cards including: Aces, Twos, Eights, and Jacks
+
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
