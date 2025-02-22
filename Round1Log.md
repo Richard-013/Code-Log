@@ -71,3 +71,13 @@ Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
 - Added test code with key press inputs to test card draw functionality
 
 Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
+
+### Day 7 - Friday - 21/02
+
+- Added ability to sort the player's hand of cards by face value or suit and face value
+- Simplified sorting by creating a separate Insertion Sort function
+- Made suits retain their order in hand when sorting by value
+- Fixed rotation of cards so that cards only rotate if they aren't already facing the relevant player
+- Updated the order of card suits for easier to read hands (Suits now alternate between black and red cards)
+
+Repo for Project: [Crazy Eights](https://github.com/Richard-013/Crazy-Eights)
